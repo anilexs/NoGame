@@ -1,0 +1,11 @@
+*{
+    color: white;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.863);
+}
+
+.sec1{
+    display: flex;
+}
